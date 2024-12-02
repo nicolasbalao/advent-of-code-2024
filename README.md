@@ -5,3 +5,4 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 ## Solutions
 
 - [Day 1: Historian Hysteria](day-01/README.md)
+- [Day 2: HRed-Nosed Reports](day-02/README.md)
